@@ -2,7 +2,7 @@
 
 A clean, responsive portfolio website showcasing my projects, skills, and learning journey as a Computer Science student at FAST University.
 
-**Live Demo:** *(Add your deployed website link here)*
+**Live Demo:** [*(Portfolio)*](https://m-faiq-7r.github.io/)
 
 ---
 
